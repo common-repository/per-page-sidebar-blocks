@@ -1,0 +1,27 @@
+ /**
+ * @plugin Per Page Sidebar Blocks Plugin
+ * @title  Admin CSS
+ * @author Jason Michael Cross - www.jasonmichaelcross.com
+ * @author Immense Networks - www.immense.net
+ */
+
+.scroll_checkbox {height: 100px; padding: 5px; overflow: auto; border: 1px solid #ccc; }
+.postbox {margin-bottom: 15px; }
+.postbox .section {padding: 10px; margin-bottom: 15px; }
+.ppsb_box .postbox .section h4 {border-bottom: 1px solid #dfdfdf; margin: 0 0 15px; padding: 10px 0;}
+.ppsb_box .postbox div.submit-box {background: #f1f1f1; padding: 7px 10px; border-top: 1px solid #dfdfdf; overflow: hidden;}
+.ppsb_box .postbox div.submit-box .submit {float: right; padding: 0; margin: 0;}
+.ppsb_box .postbox div.submit-box #submit {float: left;}
+/*.ppsb_box .postbox table.form-table input {width: 534px;}*/
+.mcm_social {overflow: hidden;}
+.mcm_social li {float: left; margin-right: 5px;}
+.ppsb_box span.description {font-style: normal; font-size: 10px; color: #7A7A7A;}
+.ppsb_box code {font-style: normal;}
+.ppsb_box textarea {resize: vertical;}
+p {line-height: 18px;}
+ol li {list-style: decimal;}
+#sortable li {margin-bottom: 1em;}
+#sortable li:hover {cursor: move;}
+#sortable .ui-sortable-placeholder {background: #f5f5f5; border: 1px dashed #bbb; visibility: visible !important;}
+/*.item-title {position: relative;}*/
+.item-title .ppsb_checkbox {float: left;}
